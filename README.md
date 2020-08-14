@@ -1,1 +1,3 @@
-# latest-war-app
+# digital-guru-server
+
+The backend architecture
